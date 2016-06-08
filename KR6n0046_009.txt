@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:39.567171
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:32
 #+TITLE: 成唯識論自攷
 #+PROPERTY: CBETA_ID X51n0823
 #+PROPERTY: ID KR6n0046
